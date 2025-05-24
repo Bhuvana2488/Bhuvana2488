@@ -12,10 +12,10 @@
   Flask-based web app that turns input text into realistic speech using Tacotron 2 and WaveGlow. Integrated a chatbot for natural query responses with NLP.
 
 - 🛒 **[E-Commerce Platform](https://github.com/Bhuvana2488/ecommerce-platform)**  
-   This project is a real-time Driver Drowsiness Detection System that uses OpenCV, Dlib, and Python to monitor a driver’s alertness
+   Designed and developed a full-stack e-commerce web application with core features including user authentication, product listings, shopping cart, and secure checkout.
 
-- 🚦 **[Traffic Data Analysis](https://github.com/Bhuvana2488/traffic-analysis)**  
-  Analyzed real-world traffic data (NGSIM) and modeled future scenarios using **LSTM**, **SVM**, and **K-Means** in **MATLAB**.
+- 🚦 **[Deepfake narrator](https://github.com/Bhuvana2488/deepfake-narrator)**  
+   This project is a real-time Driver Drowsiness Detection System that uses OpenCV, Dlib, and Python to monitor a driver’s alertness
 
 ---
 
