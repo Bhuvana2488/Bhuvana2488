@@ -15,7 +15,7 @@ BMS Institute of Technology and Management, Bangalore.
 - 🛒 **[E-Commerce Platform](https://github.com/Bhuvana2488/ecommerce-platform)**  
   A full-stack platform with user authentication, dynamic product listings, and secure checkout using **Spring Boot**, **MySQL**, and **AWS EC2/S3**.
 
-- 🚦 **[Traffic Data Analysis](https://github.com/Bhuvana2488/traffic-analysis)**  
+- 🚦 **[Traffic Data Analysis](https://github.com/Bhuvana2488/Traffic-Data-Analysis-for-Prediction)**  
   Analyzed real-world traffic data (NGSIM) and modeled future scenarios using **LSTM**, **SVM**, and **K-Means** in **MATLAB**.
 
 ---
