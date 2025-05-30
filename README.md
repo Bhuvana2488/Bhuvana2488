@@ -12,9 +12,6 @@ BMS Institute of Technology and Management, Bangalore.
 - 🔊 **[Deepfake Narration Web App](https://github.com/Bhuvana2488/deepfake-narrator)**  
   Flask-based web app that turns input text into realistic speech using Tacotron 2 and WaveGlow. Integrated a chatbot for natural query responses with NLP.
 
-- 🛒 **[E-Commerce Platform](https://github.com/Bhuvana2488/ecommerce-platform)**  
-  A full-stack platform with user authentication, dynamic product listings, and secure checkout using **Spring Boot**, **MySQL**, and **AWS EC2/S3**.
-
 - 🚦 **[Traffic Data Analysis](https://github.com/Bhuvana2488/Traffic-Data-Analysis-for-Prediction)**  
   Analyzed real-world traffic data (NGSIM) and modeled future scenarios using **LSTM**, **SVM**, and **K-Means** in **MATLAB**.
 
