@@ -19,5 +19,5 @@ BMS Institute of Technology and Management, Bangalore.
 
 ## 🛠️ Technologies I Work With
 
-**Languages:** Java, Python, C++, C, Golang  
+**Languages:** Java, Python, C++, C
 **Frameworks:** Spring Boot, Flask, React
