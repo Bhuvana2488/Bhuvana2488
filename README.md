@@ -11,13 +11,16 @@ BMS Institute of Technology and Management, Bangalore.
 
 - 🔊 **[Deepfake Narration Web App](https://github.com/Bhuvana2488/deepfake-narrator)**  
   Flask-based web app that turns input text into realistic speech using Tacotron 2 and WaveGlow. Integrated a chatbot for natural query responses with NLP.
-
+- 🔊 **[AI-Based Building Tax Verification System](https://github.com/Bhuvana2488/property-tax-)**
+GIS-based application that uses a CNN to predict building width from top-view images and verify property tax by comparing predicted values with municipal records through an interactive GUI.
 ---
 
 ## 🛠️ Technologies I Work With
 
-Languages: C++, C, Python
+Languages: C++, C, Python 
+
 Databases: MySQL, MongoDB
+
 Tools: Git, GitHub, VS Code, Docker
 
 
